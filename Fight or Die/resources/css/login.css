@@ -1,0 +1,64 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  background-image: url('../images/pagebackground.jpg');
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+h1{
+  text-align: center;
+  font-family: Verdana, Arial, cursive;
+  background-color: silver;
+  background: rgba(236, 240, 241, .8);
+  width: 35%;
+  margin: auto;
+  padding: 10px 16px;
+}
+
+input[type=text], select{
+  width: 20%;
+  position: absolute;
+  left: 40%;
+  padding: 7px 10px;
+  margin: 4px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit]{
+  width: 10%;
+  left: 45%;
+  position: absolute;
+  background-color: white;
+  color: black;
+  padding: 6px 12px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover{
+  background-color: lightgrey;
+}
+
+label[for=fname]{
+  left: 40%;
+  position: absolute;
+  color: white;
+}
+
+label[for=lname]{
+  left: 40%;
+  position: absolute;
+  color: white;
+}
+
+div{
+  border-radius: 5px;
+  background-color: grey;
+  border: 2px solid white;
+  padding: 20px;
+  width: 30%;
+  margin: auto;
+}
