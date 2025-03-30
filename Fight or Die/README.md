@@ -29,7 +29,7 @@ W, A, S, D (movement), Left Arrow and Right Arrow (character rotation)
 The current game code can be found in "resources/js/gamePage.js"
 
 
-Game Project Folder Structure:
+<h2>Game Project Folder Structure:</h2>
 
 .<br />
 ├── index.js                  # The code for nodejs that routes to web pages, including 404 page, and has a login system<br />
