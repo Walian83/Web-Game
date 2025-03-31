@@ -21,32 +21,32 @@ All the routing between the pages is done through JavaScript. The project folder
 
 <p align="center">
 Main Menu Page: <br/>
-<img src="https://imgur.com/swIhtLQ.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/swIhtLQ.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <p align="center">
 Game Page: <br/>
-<img src="https://imgur.com/kIXlE19.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/kIXlE19.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <p align="center">
 Responsive Main Menu: <br/>
-<img src="https://imgur.com/LFSuyq3.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/LFSuyq3.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <p align="center">
 Responsive Game Page: <br/>
-<img src="https://imgur.com/NR2dW2D.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/NR2dW2D.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <p align="center">
 Node.js Routing (index.js): <br/>
-<img src="https://imgur.com/td81Jrm.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/td81Jrm.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <p align="center">
 Game Over Code (gamePage.html, gamePage.js, game.css): <br/>
-<img src="https://imgur.com/bns6KlO.png" height="80%" width="80%" alt="Web Game Screenshot"/>
+<img src="https://i.imgur.com/bns6KlO.png" height="80%" width="80%" alt="Web Game Screenshot"/>
 <br />
 
 <!--
