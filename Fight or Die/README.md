@@ -13,7 +13,7 @@ The aim is to get a good score and survive for the longest you can, while the en
 4. Follow the link in the terminal (http://localhost:3000)
 
 
-<h2>How to play:</h2>
+<h2>How to play</h2>
 
 - Walk around the area (using WASD) to walk over to the snowmen that will be coming at you from the bottom of the screen.
 - Use arrow keys (Left Arrow and Right Arrow) to rotate your character so that your sword touches the enemies.
