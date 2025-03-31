@@ -40,8 +40,13 @@ Responsive Game Page: <br/>
 <br />
 
 <p align="center">
-Node.js routing (index.js): <br/>
+Node.js Routing (index.js): <br/>
 <img src="https://imgur.com/td81Jrm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Game Over Code (gamePage.html, gamePage.js, game.css): <br/>
+<img src="https://imgur.com/bns6KlO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
